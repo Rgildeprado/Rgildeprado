@@ -1,10 +1,10 @@
 <h2>HOLA MUNDO👋, I'm Raquel</h2>
 <ul>
-  <li>👨‍💻 Formándome en... **Full Stack Development**</li>
-  <li>🔭 He trabajado en... **Marketing y Comunicación + Ecommerce + Estrategia de producto**</li>
-  <li>🤝 Me gustaría apoyar... **Causas sociales**</li>
-  <li>💬 Escríbeme **para hacer realidad nuevos proyectos**</li>
-  <li>📫 **rgildeprado@gmail.com**</li>
+  <li>👨‍💻 Formándome en Full Stack Development</li>
+  <li>🔭 He trabajado en... Marketing y Comunicación, Ecommerce y estrategia de producto</li>
+  <li>🤝 Me gustaría apoyar causas sociales</li>
+  <li>💬 Escríbeme para hacer realidad nuevos proyectos</li>
+  <li>📫 rgildeprado@gmail.com</li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
